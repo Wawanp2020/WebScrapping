@@ -3,7 +3,7 @@
 ![](plot1.png)
 
 This project is developed as capstone project from Algoritma Academy Data Analystics Specialization. The deliverables are expected from this project is to do simple web-scrapping , from [Monex News](monexnews.com/kurs-valuta-asing.htm?kurs=JPY), in order to get Japan Yen exchange Rate to Indonesian Rupiah for year 2019. 
-The simple flask dashboard will be developed to show the scrap result of Japan Yen exchange rate and visualization. 
+The simple flask dashboard have been developed to show the scrap result of Japan Yen exchange rate and visualization. [See in pdf file.](Dashboard.pdf) 
 
 ## Dependencies
 
