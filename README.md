@@ -1,6 +1,6 @@
 # Web-Scrapping using Beautifulsoup
 
-![](asset/kurs.png)
+![](plot1.png)
 
 This project is developed as capstone project from Algoritma Academy Data Analystics Specialization. The deliverables are expected from this project is to do simple web-scrapping , from monexnews.com/kurs-valuta-asing.htm?kurs=JPY, in order to get Japan Yen exchange Rate to Indonesian Rupiah for year 2019. 
 The simple flask dashboard will be developed to show the scrap result of Japan Yen exchange rate and visualization. 
