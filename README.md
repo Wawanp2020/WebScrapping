@@ -1,7 +1,7 @@
 ![](plot1.png)
 
 # Web-Scrapping using Beautifulsoup
-![](bs.png)
+![](bs1.png)
 
 ## Introduction
 
